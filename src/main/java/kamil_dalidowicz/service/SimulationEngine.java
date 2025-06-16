@@ -1,4 +1,3 @@
-// src/main/java/kamil_dalidowicz/service/SimulationEngine.java
 package kamil_dalidowicz.service;
 
 import kamil_dalidowicz.model.*;
